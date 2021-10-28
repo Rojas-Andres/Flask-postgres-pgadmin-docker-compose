@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=I8HpI8E-ITc
 Aws : 
  - amazon linux
  - t2.large
+ - Aceptar todo el trafico 
  En la consola:
     - sudo yum update
     - sudo yum upgrade
